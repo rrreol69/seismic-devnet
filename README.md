@@ -50,4 +50,5 @@ If you have done all these steps, send a screenshot in the Seismic Discord on th
 ### Quick Links
 
 📱 **Discord Community**: [discord.gg/seismic](https://discord.gg/seismic)
+
 🐦 **Twitter/X**: [@SeismicSys](https://x.com/SeismicSys)
