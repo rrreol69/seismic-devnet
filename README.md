@@ -46,3 +46,8 @@ bash script/transact.sh
 
 # Final Step
 If you have done all these steps, send a screenshot in the Seismic Discord on the #devnet channel.
+
+### Quick Links
+
+📱 **Discord Community**: [discord.gg/seismic](https://discord.gg/seismic)
+🐦 **Twitter/X**: [@SeismicSys](https://x.com/SeismicSys)
