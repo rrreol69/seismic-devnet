@@ -1,6 +1,6 @@
 # Setup Guide
 
-##1. Update and install dependencies
+## 1. Update and install dependencies
 ```bash
 sudo apt update && sudo apt upgrade -y && sudo apt install -y curl git jq lz4 build-essential
 ```
