@@ -1,28 +1,33 @@
 # Setup Guide
 
-## 1. Install Rust
+##1. Update and install dependencies
+```bash
+sudo apt update && sudo apt upgrade -y && sudo apt install -y curl git jq lz4 build-essential
+```
+
+## 2. Install Rust
 ```bash
 curl https://sh.rustup.rs -sSf | sh
 . "$HOME/.cargo/env"
 ```
 
-## 2. Install sfoundryup
+## 3. Install sfoundryup
 ```bash
 curl -L -H "Accept: application/vnd.github.v3.raw" "https://api.github.com/repos/SeismicSystems/seismic-foundry/contents/sfoundryup/install?ref=seismic" | bash
 source ~/.bashrc
 ```
 
-## 3. Run sfoundryup
+## 4. Run sfoundryup
 ```bash
 sfoundryup
 ```
 
-## 4. Clone repository
+## 5. Clone repository
 ```bash
 git clone --recurse-submodules https://github.com/SeismicSystems/try-devnet.git && cd try-devnet/packages/contract/
 ```
 
-## 5. Deploy Smart Contract
+## 6. Deploy Smart Contract
 ```bash
 bash script/deploy.sh
 ```
