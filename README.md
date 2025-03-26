@@ -41,9 +41,11 @@ curl -fsSL https://bun.sh/install | bash
 
 ## 2. Install Dependencies
 ```bash
-cd try-devnet/packages/cli/ && bun install
+cd try-devnet/packages/cli/
 ```
-
+```bash
+bun install
+```
 ## 3. Send Transaction
 ```bash
 bash script/transact.sh
