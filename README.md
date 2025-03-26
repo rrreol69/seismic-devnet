@@ -1,6 +1,6 @@
 1. Install Rust
 ```curl https://sh.rustup.rs -sSf | sh```
-. "$HOME/.cargo/env"```
+```. "$HOME/.cargo/env"```
 
 2. Install sfoundryup
 ```curl -L \
