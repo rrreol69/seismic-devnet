@@ -1,5 +1,5 @@
 1. Install Rust
-```curl https://sh.rustup.rs -sSf | sh
+```curl https://sh.rustup.rs -sSf | sh```
 . "$HOME/.cargo/env"```
 
 2. Install sfoundryup
