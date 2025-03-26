@@ -1,7 +1,3 @@
-
-
-``` sudo apt update && sudo apt upgrade -y && sudo apt install -y curl git jq lz4 build-essential```
-
 1. Install Rust
 ```curl https://sh.rustup.rs -sSf | sh
 . "$HOME/.cargo/env"```
