@@ -24,7 +24,7 @@ sfoundryup
 
 ## 5. Clone repository
 ```bash
-git clone --recurse-submodules https://github.com/SeismicSystems/try-devnet.git && cd try-devnet/packages/contract/
+git clone --recurse-submodules https://github.com/SeismicSystems/try-devnet.git && cd try-devnet/packages/contract
 ```
 
 ## 6. Deploy Smart Contract
