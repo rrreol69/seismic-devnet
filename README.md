@@ -41,7 +41,7 @@ curl -fsSL https://bun.sh/install | bash
 
 ## 2. Install Dependencies
 ```bash
-cd try-devnet/packages/cli/
+cd ~ && cd try-devnet/packages/cli/
 ```
 ```bash
 bun install
